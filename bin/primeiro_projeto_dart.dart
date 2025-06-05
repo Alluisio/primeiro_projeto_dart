@@ -1,11 +1,7 @@
 import 'dart:io';
 
 void main() {
-  print('project clean');
-
-  var entrada = stdin.readLineSync();
-
-  const saida = 'ei ta porra meno';
-
-  print('entrada: $entrada $saida');
+  print('Olá amigo, sou o Dart. Qual seu nome?');
+  var nome = stdin.readLineSync();
+  print('Muito prazer, $nome. Vamos fazer vários projetos juntos!');
 }
