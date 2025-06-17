@@ -1,4 +1,4 @@
-import 'notas.dart';
+import 'notes.dart';
 
 void main() {
   // print('Olá amigo, sou o Dart. Qual seu nome?');
@@ -6,5 +6,5 @@ void main() {
   // print('Muito prazer, $nome. Vamos fazer vários projetos juntos!');
 
   // nomeIdate();
-  notas();
+  notes();
 }
